@@ -16,5 +16,5 @@
         <li>&#9733;windows</li>
     </ul>
     <h2>Contact:</h2>
-    <a href=""><img style="width: 30px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DINSTAGRAM&psig=AOvVaw0aeS78W0GnUXWyF-7kymmy&ust=1722403161276000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjtz_WBzocDFQAAAAAdAAAAABAK" alt="instagram"></a>
+    <a href="https://www.instagram.com/naresh_peruri"><img style="width: 30px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DINSTAGRAM&psig=AOvVaw0aeS78W0GnUXWyF-7kymmy&ust=1722403161276000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjtz_WBzocDFQAAAAAdAAAAABAK" alt="instagram"></a>
     
