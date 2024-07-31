@@ -16,5 +16,5 @@
         <li>&#9733;windows</li>
     </ul>
     <h2>Contact:</h2>
-    <a href="https://www.instagram.com/naresh_peruri">=</a>
+    <a href="https://www.instagram.com/naresh_peruri">instagram</a>
     
